@@ -1,0 +1,8 @@
+st_float = str(11.11)
+print(type(st_float), st_float)
+str_nun = str(12)
+print(type(str_nun) , str_nun)
+int_float = int(11.11)
+print(type(int_float), int_float)
+float_int = float(11)
+print(type(float_int), float_int)
